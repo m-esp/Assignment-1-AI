@@ -1,5 +1,11 @@
-Requirements to run main.py:
+# Tarea 1 AI
 
-pip install opencv-python
-pip install keras
-pip install tensorflow
+## Requirements
+
+To run `main.py`, you'll need to install the following Python packages:
+   ```bash
+   pip install opencv-python, pip install keras, pip install tensorflow
+
+
+
+  
